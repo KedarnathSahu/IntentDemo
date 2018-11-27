@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentDemo</string>
+    <string name="mail">Mail</string>
+    <string name="search">Search</string>
+    <string name="body">I read your job posting for the Store Manager position with interest, as the qualifications you are seeking match closely with my professional skills and experience.</string>
+    <string name="search_chooser">Search Chooser</string>
+</resources>
